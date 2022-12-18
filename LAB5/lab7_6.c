@@ -10,7 +10,7 @@ void funkcja(int* wskaz1,int* wskaz2)
     }
     for(int i=dlugosc-1;i>=0;i--)
     {
-        printf("%lld\t",wskaz2[i]);
+        printf("%d\t",wskaz2[i]);
     }
 }
 
